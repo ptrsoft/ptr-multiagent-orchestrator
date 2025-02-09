@@ -1,42 +1,11 @@
 <h2 align="center">Multi-Agent Orchestrator&nbsp;</h2>
 <p align="center">Flexible, lightweight open-source framework for orchestrating multiple AI agents to handle complex conversations.</p>
 
-
-<p align="center">
-  <a href="https://github.com/awslabs/multi-agent-orchestrator"><img alt="GitHub Repo" src="https://img.shields.io/badge/GitHub-Repo-green.svg" /></a>
-  <a href="https://www.npmjs.com/package/multi-agent-orchestrator"><img alt="npm" src="https://img.shields.io/npm/v/multi-agent-orchestrator.svg?style=flat-square"></a>
-  <a href="https://pypi.org/project/multi-agent-orchestrator/"><img alt="PyPI" src="https://img.shields.io/pypi/v/multi-agent-orchestrator.svg?style=flat-square"></a>
-</p>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://img.shields.io/github/stars/awslabs/multi-agent-orchestrator?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/awslabs/multi-agent-orchestrator?style=social" alt="GitHub forks">
-  <img src="https://img.shields.io/github/watchers/awslabs/multi-agent-orchestrator?style=social" alt="GitHub watchers">
-</p>
-
-<p align="center">
-  <!-- Repository Info -->
-  <img src="https://img.shields.io/github/last-commit/awslabs/multi-agent-orchestrator" alt="Last Commit">
-  <img src="https://img.shields.io/github/issues/awslabs/multi-agent-orchestrator" alt="Issues">
-  <img src="https://img.shields.io/github/issues-pr/awslabs/multi-agent-orchestrator" alt="Pull Requests">
-</p>
-
-
-<p align="center">
-  <!-- Package Stats -->
-  <a href="https://pypi.org/project/multi-agent-orchestrator/"><img src="https://img.shields.io/pypi/dm/multi-agent-orchestrator?label=pypi%20downloads" alt="PyPI Monthly Downloads"></a>
-  <a href="https://www.npmjs.com/package/multi-agent-orchestrator"><img src="https://img.shields.io/npm/dm/multi-agent-orchestrator?label=npm%20downloads" alt="npm Monthly Downloads"></a>
-</p>
-
-
 <p align="center">
   <a href="https://awslabs.github.io/multi-agent-orchestrator/" style="display: inline-block; background-color: #0066cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 15px; transition: background-color 0.3s;">
     📚 Explore Full Documentation
   </a>
 </p>
-
-
 
 ## 🔖 Features
 
